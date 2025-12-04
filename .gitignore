@@ -1,0 +1,9 @@
+echo "__pycache__/
+*.py[cod]
+venv/
+.env
+*.csv
+*.xlsx
+.DS_Store
+.vscode/
+.idea/" > .gitignore
